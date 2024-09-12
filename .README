@@ -4,7 +4,7 @@
     - MongoDB
     - Type Script
     - Express
-### Command remmebers
+### Command remmebers lesion9 
     - Open terminal
     - yarn init 
     - git init
@@ -13,3 +13,7 @@
     - git config --global user.name "Gia Thinh"
     - git config --global user.email "trangiathinh0309@gmail.com"
     - git remote add origin https://github.com/thinhb2203582/API.git
+    - git push -u origin main
+
+### lession19 
+    - tsc --init
