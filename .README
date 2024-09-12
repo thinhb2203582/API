@@ -1,0 +1,15 @@
+# API
+## Technologies
+    - NodeJS
+    - MongoDB
+    - Type Script
+    - Express
+### Command remmebers
+    - Open terminal
+    - yarn init 
+    - git init
+    - git commit -m "Initial commit"
+    - git add*
+    - git config --global user.name "Gia Thinh"
+    - git config --global user.email "trangiathinh0309@gmail.com"
+    - git remote add origin https://github.com/thinhb2203582/API.git
